@@ -27,8 +27,26 @@ README.md
 requirements.txt
 ```
 ## Results
-The developed model predicts soil nutrient deficiency using multimodal input features and demonstrates the potential of deep learning for precision agriculture.
 
+The proposed multimodal deep learning model predicts soil nutrient deficiency by combining soil and weather parameters. The project demonstrates how deep learning can support precision agriculture through improved nutrient deficiency prediction.
+
+### Feature Importance
+![Feature Importance](feature_importance.png)
+
+### Model Architecture
+![Model Architecture](model_architecture.png)
+
+### Model Comparison
+![Model Comparison](model_comparison.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### Training Loss
+![Training Loss](training_loss.png)
+
+### Error Distribution
+![Error Distribution](error_distribution.png)
 ## Future Improvements
 - Deploy as a web application
 - Improve prediction accuracy using larger datasets
